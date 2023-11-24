@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "title": "Antique Camera",
+      "imageFile": "/images/AntiqueCamera.png",
+      "3dFile": "/models/AntiqueCamera.glb"
+    },
+    {
+      "title": "Avocado",
+      "imageFile": "/images/Avocado.jpg",
+      "3dFile": "/models/Avocado.glb"
+    },
+    {
+      "title": "Barramundi Fish",
+      "imageFile": "/images/BarramundiFish.jpg",
+      "3dFile": "/models/BarramundiFish.glb"
+    },
+    {
+      "title": "Boom Box",
+      "imageFile": "/images/BoomBox.jpg",
+      "3dFile": "/models/BoomBox.glb"
+    },
+    {
+      "title": "Corset",
+      "imageFile": "/images/Corset.jpg",
+      "3dFile": "/models/Corset.glb"
+    },
+    {
+      "title": "kids",
+      "videoFile": "/videos/kids.mp4"
+    },
+    {
+      "title": "Damaged Helmet",
+      "imageFile": "/images/DamagedHelmet.png",
+      "3dFile": "/models/DamagedHelmet.glb"
+    },
+    {
+      "title": "Lantern",
+      "imageFile": "/images/Lantern.jpg",
+      "3dFile": "/models/Lantern.glb"
+    },
+    {
+      "title": "Water Bottle",
+      "imageFile": "/images/WaterBottle.jpg",
+      "3dFile": "/models/WaterBottle.glb"
+    },
+    {
+      "title": "Box",
+      "imageFile": "/images/Box.png",
+      "3dFile": "/models/Box.glb"
+    },
+    {
+      "title": "Box Vertex Colors",
+      "imageFile": "/images/BoxVertexColors.png",
+      "3dFile": "/models/BoxVertexColors.glb"
+    },
+    {
+      "title": "animation",
+      "videoFile": "/videos/animation.mp4"
+    },
+    {
+      "title": "Duck",
+      "imageFile": "/images/Duck.png",
+      "3dFile": "/models/Duck2.glb"
+    },
+    {
+      "title": "2 Cylinder Engine",
+      "imageFile": "/images/2CylinderEngine.png",
+      "3dFile": "/models/2CylinderEngine.glb"
+    },
+    {
+      "title": "Reciprocating Saw",
+      "imageFile": "/images/ReciprocatingSaw.png",
+      "3dFile": "/models/ReciprocatingSaw.glb"
+    },
+    {
+      "title": "Gearbox Assy",
+      "imageFile": "/images/",
+      "3dFile": "/models/"
+    },
+    {
+      "title": "Box Animated",
+      "imageFile": "/images/BoxAnimated.gif",
+      "3dFile": "/models/BoxAnimated.glb"
+    },
+    {
+      "title": "wave",
+      "videoFile": "/videos/wave.mp4"
+    }
+  ]
+}
